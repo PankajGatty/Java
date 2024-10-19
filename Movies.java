@@ -34,7 +34,9 @@ public class Movies{
         updateShowTime("KGF","1:30 PM");
 
         //delete a movie
+        
         deleteMovie("LUCIA");
+        
 
 	
 

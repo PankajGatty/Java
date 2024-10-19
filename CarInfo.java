@@ -82,104 +82,34 @@ public class CarInfo{
 
 
 		//printing object
-		System.out.println("\n"); 
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car.carName);
-		System.out.println("No.Of Seats:"+car.noOfSeats);
-		System.out.println("FuelType:"+car.fuelType);
-		System.out.println("ExhaustType:"+car.exhaustType);
-		System.out.println("Car Milage Per Km:"+car.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car.carDetail();
 
 		//printing object 1
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car1.carName);
-		System.out.println("No.Of Seats:"+car1.noOfSeats);
-		System.out.println("FuelType:"+car1.fuelType);
-		System.out.println("ExhaustType:"+car1.exhaustType);
-		System.out.println("Car Milage Per Km:"+car1.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car1.carDetail();
 
 		//printing object 2
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car2.carName);
-		System.out.println("No.Of Seats:"+car2.noOfSeats);
-		System.out.println("FuelType:"+car2.fuelType);
-		System.out.println("ExhaustType:"+car2.exhaustType);
-		System.out.println("Car Milage Per Km:"+car2.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car2.carDetail();
 
 		//printing object 3
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car3.carName);
-		System.out.println("No.Of Seats:"+car3.noOfSeats);
-		System.out.println("FuelType:"+car3.fuelType);
-		System.out.println("ExhaustType:"+car3.exhaustType);
-		System.out.println("Car Milage Per Km:"+car3.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car3.carDetail();
 
 		//printing object 4
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car4.carName);
-		System.out.println("No.Of Seats:"+car4.noOfSeats);
-		System.out.println("FuelType:"+car4.fuelType);
-		System.out.println("ExhaustType:"+car4.exhaustType);
-		System.out.println("Car Milage Per Km:"+car4.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car4.carDetail();
 
 		//printing object 5
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car5.carName);
-		System.out.println("No.Of Seats:"+car5.noOfSeats);
-		System.out.println("FuelType:"+car5.fuelType);
-		System.out.println("ExhaustType:"+car5.exhaustType);
-		System.out.println("Car Milage Per Km:"+car5.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car5.carDetail();
 
 		//printing object 6
-		System.out.println("Car Name:"+car6.carName);
-		System.out.println("No.Of Seats:"+car6.noOfSeats);
-		System.out.println("FuelType:"+car6.fuelType);
-		System.out.println("ExhaustType:"+car6.exhaustType);
-		System.out.println("Car Milage Per Km:"+car6.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car6.carDetail();
 
 		//printing object 7
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car7.carName);
-		System.out.println("No.Of Seats:"+car7.noOfSeats);
-		System.out.println("FuelType:"+car7.fuelType);
-		System.out.println("ExhaustType:"+car7.exhaustType);
-		System.out.println("Car Milage Per Km:"+car7.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car7.carDetail();
 
 		//printing object 8
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car8.carName);
-		System.out.println("No.Of Seats:"+car8.noOfSeats);
-		System.out.println("FuelType:"+car8.fuelType);
-		System.out.println("ExhaustType:"+car8.exhaustType);
-		System.out.println("Car Milage Per Km:"+car8.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car8.carDetail();
 
 		//printing object 9
-		System.out.println("**************************");
-		System.out.println("Car Name:"+car9.carName);
-		System.out.println("No.Of Seats:"+car9.noOfSeats);
-		System.out.println("FuelType:"+car9.fuelType);
-		System.out.println("ExhaustType:"+car9.exhaustType);
-		System.out.println("Car Milage Per Km:"+car9.carMilagePerKm);
-		System.out.println("**************************");
-		System.out.println("\n");
+		car9.carDetail();
 
 	}
 

@@ -19,6 +19,16 @@ public class Cars{
 	public static void suspension(){
 
 	}
+	public void carDetail(){
+		System.out.println("**************************");
+		System.out.println("Car Name:"+carName);
+		System.out.println("No.Of Seats:"+noOfSeats);
+		System.out.println("FuelType:"+fuelType);
+		System.out.println("ExhaustType:"+exhaustType);
+		System.out.println("Car Milage Per Km:"+carMilagePerKm);
+		System.out.println("**************************");
+		System.out.println("\n");
+	}
 
 
 }
